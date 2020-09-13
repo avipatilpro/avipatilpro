@@ -6,6 +6,7 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from India, Kolhapur</h3>
+<h3 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h3><br>
 
 - 🔭 I’m currently working on [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot)
 
