@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **proavipatil@gmail.com or me@mailavi.tk**
+- 📫 How to reach me **me@mailavi.tk or hello@avipatilweb.me**
 
 <br><br>
 
