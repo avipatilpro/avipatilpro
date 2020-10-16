@@ -6,7 +6,10 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from India, Kolhapur</h3>
-<h3 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h3><br>
+
+<h4 align="center">Open-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work on Python Programes privately</h4>
+
+<h4 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h4><br>
 
 - 🔭 I’m currently working on [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot)
 
@@ -30,6 +33,7 @@ About Me = [
     "A know about of Python, Kotlin, C, C++, Html, PHP, CSS, Java",
     "New Things with code everyday",
     "I am in my world !! 💞"
+    "I Work for Mine"
 ]
 ```
 <br><br>
