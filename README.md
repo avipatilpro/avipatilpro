@@ -5,7 +5,7 @@
 <a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India, Kolhapur</h3>
+<h3 align="center">A passionate frontend developer from Kolhapur , IN</h3>
 
 <h4 align="center">Open-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work on Python Programes privately</h4>
 
