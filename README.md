@@ -12,6 +12,8 @@
 
 <h4 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h4><br>
 
+<p align="center"> <a href="https://github.com/avipatilpro/"><img width="130px" src="https://komarev.com/ghpvc/?username=avipatilpro&label=Profile%20views&color=0e75b6&style=flat" alt="avipatilpro" /></a> </p><br><br>
+
 <p align="center"><img src="https://sdk.bitmoji.com/render/panel/0debf544-5b3b-4275-b469-1d779e0dc91e-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="130" height="130"/></p><br>
 
 
