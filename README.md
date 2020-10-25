@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avishkar Patil</h1>
 
 <p align="center">
-<a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="30" /></a>
-<a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="30" /></a>
+<a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
+<a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avishkarpatil64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avishkarpatil64" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">A passionate frontend developer from Kolhapur , IN</h3>
@@ -11,7 +12,7 @@
 
 <h4 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h4><br>
 
-<p align="center"><img src="https://sdk.bitmoji.com/render/panel/79ba5f12-d2e2-4192-a5ae-1ed8fd818d82-dcda6913-1e44-4ff6-b072-ecd5bfa052cc-v1.png?transparent=1&palette=1" alt="Hello" width="130" height="130"/></p><br>
+<p align="center"><img src="https://sdk.bitmoji.com/render/panel/0debf544-5b3b-4275-b469-1d779e0dc91e-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="130" height="130"/></p><br>
 
 
 
