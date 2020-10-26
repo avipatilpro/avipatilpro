@@ -45,10 +45,10 @@ About Me = [
 ```
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="avipatilpro"/></p>
+<p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="avipatilpro"/></p>
 <br>
 <h4 align="center"> Add Your Name and SIte Here :sweat_smile:  If don't Have site add Only Name</h4>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avipatilpro&theme=algolia&repo=The-Developers" alt="EdithUser_Bot"/></p><br>
+<p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro/The-Developers/" src="https://github-readme-stats.vercel.app/api/pin/?username=avipatilpro&theme=algolia&repo=The-Developers" alt="EdithUser_Bot"/></p><br>
 
 <h4 align="center"> :stuck_out_tongue_winking_eye: Working on Private Project :sweat_smile: in 🐍🐍 </h4>
 
