@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avishkar Patil</h1>
+<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Avishkar Patil</h1>
 
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
@@ -18,11 +18,11 @@
 
 
 
-- 🔭 I’m currently working on [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot)
+- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot) -->
 
 - 🌱 I’m currently learning **Python and New Things**
 
-- 👯 I’m looking to collaborate on **Some Top Projects**
+- 👯 My Fun Fact is **Coffee & Friends**
 
 - 🤝 I’m looking for help with **Profession Developers**
 
