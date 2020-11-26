@@ -44,13 +44,14 @@ About Me = [
 ]
 ```
 <br>
+<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="avipatilpro"/></p></a>
 
-<p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="avipatilpro"/></p>
+<!--
 <br>
 <h4 align="center"> Add Your Name and SIte Here :sweat_smile:  If don't Have site add Only Name</h4>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avipatilpro&theme=algolia&repo=The-Developers" alt="The Developers"/></p><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avipatilpro&theme=algolia&repo=The-Developers" alt="The Developers"/></p><br> 
+<h4 align="center"> :stuck_out_tongue_winking_eye: Working on Private Project :sweat_smile: in 🐍🐍 </h4> -->
 
-<h4 align="center"> :stuck_out_tongue_winking_eye: Working on Private Project :sweat_smile: in 🐍🐍 </h4>
 
 <br><br>
 
