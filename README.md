@@ -12,7 +12,7 @@
 
 <h4 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h4><br>
 
-<p align="center"> <a href="https://github.com/avipatilpro/"><img width="160px" height="25" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
+<p align="center"> <a href="https://github.com/avipatilpro/"><img width="170px" height="25" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
 <p align="center"><a href="https://avipatilweb.me/"><img src="https://sdk.bitmoji.com/render/panel/8f218be7-72ff-4513-b642-f1c750b5a618-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="150" height="150"/></a></p><br>
 
