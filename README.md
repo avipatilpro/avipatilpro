@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **aviflix@pm.me or hello@avipatilweb.me**
+- 📫 How to reach me **proavipatil@gmail.com or hello@avipatilweb.me**
 
 <br><br>
 
