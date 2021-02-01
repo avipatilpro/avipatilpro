@@ -46,7 +46,7 @@ About Me = [
     "I Work for Mine"
 ]
 ```
-<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-stats-alpha.vercel.app/api/?username=avipatilpro&cc=050F2C&tc=fff&ic=2AD091)" alt="avipatilpro"/></p></a>
+<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-stats-alpha.vercel.app/api/?username=avipatilpro&cc=050F2C&tc=fff&ic=2AD091" alt="avipatilpro"/></p></a>
 
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avipatilpro&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me Avi Patil"/></p></a><br> 
