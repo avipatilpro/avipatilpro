@@ -9,11 +9,9 @@
 <a href="https://www.hackerrank.com/avishkarpatil64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avishkarpatil64" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from Kolhapur , IN</h3>
 
 <h4 align="center">Open-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work on Python Programes privately</h4>
 
-<h4 align="center">Also Meet me at <a href="https://github.com/proavipatil"><b>ProAviPatil</b></a></h4><br>
 
 <p align="center"> <a href="https://github.com/avipatilpro/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
@@ -46,7 +44,7 @@ About Me = [
     "I Work for Mine"
 ]
 ```
-<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-stats-alpha.vercel.app/api/?username=avipatilpro&cc=050F2C&tc=fff&ic=2AD091" alt="avipatilpro"/></p></a>
+<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/avipatilpro" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="avipatilpro"/></p></a>
 
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avipatilpro&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me Avi Patil"/></p></a><br> 
