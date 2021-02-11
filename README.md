@@ -10,7 +10,7 @@
 </p>
 
 
-<h4 align="center">Open-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work on Python Programes privately</h4>
+<h4 align="center">Closed-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work privately</h4>
 
 
 <p align="center"> <a href="https://github.com/avipatilpro/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
