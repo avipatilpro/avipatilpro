@@ -1,7 +1,7 @@
 <!-- Copyrights Avishkar Patil Don't Remove The Credits 
      Take a permission before copying feel free to fork this -->
 
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Avishkar Patil</h1>
+<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Avishkar Patil 😎</h1>
 
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
