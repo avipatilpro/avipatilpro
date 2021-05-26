@@ -1,5 +1,5 @@
-<!-- Copyrights Avishkar Patil Don't Remove The Credits 
-     Take a permission before copying feel free to fork this -->
+<!-- Copyrights Avishkar Patil 
+     feel free to fork this -->
 
 <h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Avishkar Patil 😎</h1>
 
@@ -21,17 +21,15 @@
 
 - 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot) -->
 
-- 🌱 I’m currently learning **Python and New Things**
+- 🌱 I’m currently learning **New Things**
 
 - 👯 My Fun Fact is **Coffee & Friends**
 
 - 🤝 I’m looking for help with **Profession Developers**
 
-- 📝 I regulary write articles on Web Development
-
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **proavipatil@gmail.com or hello@avipatilweb.me**
+- 📫 How to reach me **proavipatil@gmail.com**
 
 <br><br>
 
